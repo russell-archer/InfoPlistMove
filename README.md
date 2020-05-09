@@ -1,4 +1,4 @@
-# Xcode Move Info.plist to Folder
+# Xcode Move Info.plist to Support Folder
 ## Resolving issues when moving Info.plist out of the project root
 
 With a large project it's often useful to move your Info.plist file into a "support" folder, along with other
